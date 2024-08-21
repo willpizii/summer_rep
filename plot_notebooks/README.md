@@ -19,3 +19,5 @@
 - Requires a definition model 'mod_def' of a single fault for some plots
 
 - Outputs various csv as well, of events, slow events...
+
+- Contains the script used to find slow events
